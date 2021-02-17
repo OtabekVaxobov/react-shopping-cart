@@ -16,9 +16,9 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-query": "^3.5.11",
-    "react-scripts": "4.0.1",
+    "react-scripts": "4.0.2", //changed from "react-scripts": "4.0.1" to "react-scripts": "4.0.2"
     "styled-components": "^5.2.1",
-    "typescript": "^4.1.3",
+    "typescript": "^4.1.5", // changed from "typescript": "^4.1.2" to "typescript": "^4.1.5"
     "web-vitals": "^0.2.4"
   },
   "scripts": {
